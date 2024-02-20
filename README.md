@@ -7,7 +7,7 @@ Romeo De Timmerman
 project summary
 ---------------
 
-This repository contains a quantitative analysis of Flemish contact tracing  data from July 15, 2020 through December 10, 2020. This analysis is part of the larger [Contra-C19 research project](https://www.coronacontactonderzoek.ugent.be/in-english/) titled 'Effective information exchange and care orientation in Covid-19-related contact tracing phone calls. An applied sociolinguistic and conversation analytic enquiry into optimizing interactional dynamics and pragmatic awareness.' This project was funded by the Flemish Research Council (FWO), and executed by researcher from Ghent University and Antwerp University.
+This repository contains a quantitative analysis of Flemish contact tracing  data from July 15, 2020 through December 10, 2020. This analysis is part of the larger [Contra-C19 research project](https://www.coronacontactonderzoek.ugent.be/in-english/) titled 'Effective information exchange and care orientation in Covid-19-related contact tracing phone calls. An applied sociolinguistic and conversation analytic enquiry into optimizing interactional dynamics and pragmatic awareness.' This project was funded by the Flemish Research Council (FWO), and was carried out by researchers from Ghent University and the University of Antwerp.
 
 
 project structure
